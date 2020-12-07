@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeautyHouse</string>
+    <string name="Profile_200">200</string>
+    <string name="Profile_postingan">Postingan</string>
+    <string name="Profile_100k">100k</string>
+    <string name="Profile_pengikut">Pengikut</string>
+    <string name="Profile_105">105</string>
+    <string name="Profile_mengikuti">Mengikuti</string>
+    <string name="Profile_beautyhouse">BeautyHouse</string>
+    <string name="Profile_oner_beautyhouse">- Oner BeautyHouse</string>
+    <string name="Profile_follback_dm">- follback/Dm</string>
+    <string name="Profile_follow">Follow</string>
+    <string name="Profile_pesan">Pesan</string>
+</resources>
